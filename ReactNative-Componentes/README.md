@@ -18,4 +18,7 @@ Aquí veremos entre otros temas:
 
 Es una sección donde crearemos una aplicación con muchos componentes que nos ayudarán a dominar todo lo aprendido hasta el momento y seguir aprendiendo nuevos elementos.
 
-![components](https://github.com/manuels-bts/ReactNative-Componentes/assets/116088500/b59c5d8c-0493-4b8d-b99d-860b8a78581f)
+## Screenshots
+
+![274713497-b59c5d8c-0493-4b8d-b99d-860b8a78581f](https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/8275d728-28a2-419d-bd5e-dd93b9c09e28)
+
