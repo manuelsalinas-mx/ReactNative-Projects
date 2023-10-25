@@ -31,12 +31,8 @@
 
 [Presentaciones.pdf](https://github.com/manuelsalinas-mx/ReactNative-Samples/files/13168540/Presentaciones.pdf)
 
-**Referencia**
 
-[Curso React](https://www.udemy.com/share/104lzC3@eFfLCZeN1GTLyC3Hc85vjswJWUxQrOnvoTVgclMgGCBF7OSYPDGRoe9-l8medHYMkw==/)
-
-
-# Instalaciones recomendadas - Curso de React Native
+# Instalaciones recomendadas
 
 ## Instalaciones Necesarias
 
