@@ -1,6 +1,7 @@
 # React-Native-Index
 
-![React-Native-Developer-1](https://github.com/manuels-bts/React-Native-Index/assets/116088500/f6830401-bc54-46a2-a91c-66277e350b7f)
+![274434961-f6830401-bc54-46a2-a91c-66277e350b7f](https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/6a700b35-1f43-4e54-a466-17c1a45a4fb3)
+
 
 
 ## Indice de temas: 
