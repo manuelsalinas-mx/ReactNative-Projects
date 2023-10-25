@@ -81,16 +81,18 @@ Please file a bug at https://feedbackassistant.apple.com with this warning messa
 ** BUILD FAILED **
 ```
 
-## Android
-![Screenshot_1697494533](https://github.com/manuels-bts/ReactNative-Movies_II-Gradient/assets/116088500/e132f0c5-4604-4e3e-99a3-94c82099ba90)
+## Android Screenshots
 
-![Screenshot_1697138400](https://github.com/manuels-bts/ReactNative-Movies/assets/116088500/3a847b23-e466-4d19-8138-dcd5439bf5a8)
+![275661991-e132f0c5-4604-4e3e-99a3-94c82099ba90](https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/47a7ffc9-8c40-4e0e-9c8b-690ce877200f)
 
-![Screenshot_1697138404](https://github.com/manuels-bts/ReactNative-Movies/assets/116088500/f1d1651c-9d63-4080-a529-a0e28be8a036)
+![274709840-3a847b23-e466-4d19-8138-dcd5439bf5a8](https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/a242603b-0797-4276-a245-8a4bf1e87dfe)
 
-![Screenshot_1697828147](https://github.com/manuels-bts/ReactNative-Movies_II-Gradient/assets/116088500/5387c30b-21fc-4f84-a527-398231828922)
+![274709859-f1d1651c-9d63-4080-a529-a0e28be8a036](https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/545b0804-d2b2-4b2c-a187-1d45dca77b23)
+
+![277029372-5387c30b-21fc-4f84-a527-398231828922](https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/8c4a5300-bb96-409a-b9d6-4d6b15fac633)
 
 
+## Importante
 Por alguna razon que desconozco hay un archivo que no se pudo encontrar, Este archivo es sobre colores de los cuales se renderea el Gradiante
 ```
  ERROR  Error: Cannot find native module 'ImageColors', js engine: hermes
