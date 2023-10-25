@@ -92,7 +92,7 @@ Please file a bug at https://feedbackassistant.apple.com with this warning messa
 ![277029372-5387c30b-21fc-4f84-a527-398231828922](https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/8c4a5300-bb96-409a-b9d6-4d6b15fac633)
 
 
-## Importante
+## Disclaimer
 Por alguna razon que desconozco hay un archivo que no se pudo encontrar, Este archivo es sobre colores de los cuales se renderea el Gradiante
 ```
  ERROR  Error: Cannot find native module 'ImageColors', js engine: hermes
