@@ -13,4 +13,7 @@ Crearemos una calculadora que use componentes re utilizables, custom hooks, cál
 - Tema global
 - Estilos condicionales
 
-![Simulator Screen Recording - iPhone 15 Pro - 2023-10-12 at 12 12 44](https://github.com/manuels-bts/ReactNative-Calculadora/assets/116088500/a178f2d3-2006-4c50-bc5a-0d37ee943d00)
+## Screenshots
+
+![274694315-a178f2d3-2006-4c50-bc5a-0d37ee943d00](https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/3cc1e8c9-8193-4b87-8a27-dc1facdf27d2)
+
