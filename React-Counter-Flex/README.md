@@ -30,4 +30,8 @@ export const App = () => {
 }
 ```
 
-![koke](https://github.com/manuels-bts/React-Counter-Flex/assets/116088500/264271d1-4686-46eb-bed3-366e2a2eeb12)
+## Screenshots
+
+![274701470-264271d1-4686-46eb-bed3-366e2a2eeb12](https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/4cb2b903-b405-406d-98c0-994230e67950)
+
+
