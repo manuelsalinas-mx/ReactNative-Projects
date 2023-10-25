@@ -4,7 +4,9 @@ Esta sección tiene por objetivo que creemos un **buscador de Pokemons por nombr
 
 Crearemos manualmente nuestro **debouncer** con un hook por si lo necesitan re-utilizar en un futuro.
 
-![pokedex](https://github.com/manuels-bts/ReactNative-Pokedex_II-DebouncerSearch/assets/116088500/8ca87fe8-ec97-4025-a232-e9f8c4802118)
+## Screenshots
+
+![274698855-8ca87fe8-ec97-4025-a232-e9f8c4802118](https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/dead1b54-d073-4447-84e6-bd974e210e68)
 
 
-<img width="762" alt="Screenshot 2023-10-05 at 11 07 00 AM" src="https://github.com/manuels-bts/ReactNative-Pokedex_II-DebouncerSearch/assets/116088500/bae30a69-aa31-419e-9579-ef0ce8ba563f">
+<img width="462" alt="274428440-bae30a69-aa31-419e-9579-ef0ce8ba563f" src="https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/7ad4aac6-2504-4907-9599-c1d08609d8e0">
