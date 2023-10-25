@@ -11,7 +11,10 @@ Esta aplicación tiene varios objetivos:
 
 El objetivo final es ir creando una aplicación que expandiremos en la siguiente sección.
 
-![poke](https://github.com/manuels-bts/ReactNative-Pokedex/assets/116088500/15b349c3-cb3f-4dcf-afd5-efe5d7de4d41)
+## Screenshots
+
+![274696688-15b349c3-cb3f-4dcf-afd5-efe5d7de4d41](https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/1237727d-5c13-44ac-983b-835cefedb222)
 
 
-<img width="813" alt="Screenshot 2023-10-05 at 11 04 03 AM" src="https://github.com/manuels-bts/ReactNative-Pokedex/assets/116088500/8b17372c-e5fb-4e9d-910e-4586bf65e071">
+<img width="413" alt="274428247-8b17372c-e5fb-4e9d-910e-4586bf65e071" src="https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/522b6ed8-1ba0-4b99-80b2-0cdc05f819f7">
+
