@@ -6,10 +6,14 @@ GPS.
 Les enseñaré a utilizar **Apple Maps y Google Maps**, junto sus configuraciones respectivas e instalaciones.
 
 ### Revisando permisos en el Log
-<img width="813" alt="Screenshot 2023-10-12 at 2 02 58 PM" src="https://github.com/manuels-bts/ReactNative-Rutas_I-Permisos/assets/116088500/5c1eefcf-23b4-433a-b7e3-f85f595a645a">
+
+<img width="813" alt="274719644-5c1eefcf-23b4-433a-b7e3-f85f595a645a (1)" src="https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/490e0061-a76f-4aec-920a-afcbd8614146">
+
 
 ### Revisando actualizacion de ubicacion en tiempo real en la simulacion de trayecto
-<img width="929" alt="Screenshot 2023-10-12 at 2 15 36 PM" src="https://github.com/manuels-bts/ReactNative-Rutas_II-Mapas/assets/116088500/72e87ddf-2e4d-4d93-9f6e-7b389a1e6ab3">
+
+<img width="929" alt="274722315-72e87ddf-2e4d-4d93-9f6e-7b389a1e6ab3" src="https://github.com/manuelsalinas-mx/ReactNative-Samples/assets/110424672/6ab50d0d-2a25-4596-a1b8-526ab5c41533">
+
 
 
 ### Mostrar Mapa y seguir tracking, mostrar y ocultar ruta y no centrar si no se presiona el boton para ello
